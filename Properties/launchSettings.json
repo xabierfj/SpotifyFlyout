@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SpotifyFlyout (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SpotifyFlyout (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
